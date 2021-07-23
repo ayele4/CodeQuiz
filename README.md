@@ -21,4 +21,6 @@ THEN the game is over
 WHEN the game is over
 THEN I can save my initials and score
 
-https://ayele4.github.io/Homework4-CodeQuiz/# Deployed page
+# Deployed page
+
+https://ayele4.github.io/Homework4-CodeQuiz/
