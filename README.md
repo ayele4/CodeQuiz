@@ -23,4 +23,4 @@ THEN I can save my initials and score
 
 # Deployed page
 
-https://ayele4.github.io/Homework4-CodeQuiz/
+https://ayele4.github.io/CodeQuiz/
